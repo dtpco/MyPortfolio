@@ -1,9 +1,9 @@
-MyPortfoliio
+MyPortfolio
 =================
 Description
 A personal portfolio website showcasing my skills, projects, and contact information.
 Features
-- **Home**: Introduction with a brief overview of Donnalyn Topacio.
+- **Home**: Introduction with a brief overview of myself.
 - **MyProjects**: A showcase of various projects with descriptions and links.
 - **MyContact**: A form for visitors to get in touch, along with social medialinks.
 
@@ -38,9 +38,6 @@ To start the local development server, run the following command:
 npm run dev
 
 This will typically open the project in your browser at http://localhost:5173.
-
-Credits
-Developer: Donnalyn Topacio
 
 Icons:
 
