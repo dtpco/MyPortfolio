@@ -1,8 +1,7 @@
 MyPortfoliio
 =================
 Description
-A personal portfolio website showcasing the skills, projects, and contact information of Donnalyn Topacio, a BS Information Technology student with a passion for web development and design. The site serves as a professional online presence to highlight completed work and demonstrate technical abilities.
-
+A personal portfolio website showcasing my skills, projects, and contact information.
 Features
 - **Home**: Introduction with a brief overview of Donnalyn Topacio.
 - **MyProjects**: A showcase of various projects with descriptions and links.
