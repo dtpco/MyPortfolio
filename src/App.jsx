@@ -10,7 +10,6 @@ import Contact from './MyContact'
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
-// Register the plugin
 gsap.registerPlugin(ScrollTrigger);
 
 function App() {
